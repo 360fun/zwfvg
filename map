@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "warehouse",
+        "name": "Gaia Terra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.0682495,
+          45.8853211
+        ]
+      }
+    }
+  ]
+}
